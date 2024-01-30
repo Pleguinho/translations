@@ -366,7 +366,7 @@
 	"advancement.enigmaticlegacy:astralFruit": "Maçã Fabulosa",
 	"advancement.enigmaticlegacy:astralFruit.desc": "Encontre a Fruta Celestial entre os Tesouros da Cidade do Fim, e a Consuma",
 	
-	"advancement.enigmaticlegacy:abyssalHeart": "Terror de Eldritch",
+	"advancement.enigmaticlegacy:abyssalHeart": "Terror Eldritch",
 	"advancement.enigmaticlegacy:abyssalHeart.desc": "Mate o Ender Dragon e Reivindique o Coração do Abismo",
 	
 	"advancement.enigmaticlegacy:theInfinitum": "Além do Tempo e Espaço",
@@ -386,7 +386,7 @@
 
 	"tooltip.enigmaticlegacy.holdShift": "§5Segure §6Shift§5 para ver detalhes.",
 	
-	"tooltip.enigmaticlegacy.enigmaticItem1": "§dAtivar Habilidade:",
+	"tooltip.enigmaticlegacy.enigmaticItem1": "§dHabilidade ativa:",
 	"tooltip.enigmaticlegacy.enigmaticItem2": "§6- Chove Crânios Devastadores do Wither.",
 	"tooltip.enigmaticlegacy.enigmaticItemCooldown": "§dСooldown: §6%1$s§6 segundos",
 	"tooltip.enigmaticlegacy.enigmaticItem3": "§dHabilidades passivas:",
