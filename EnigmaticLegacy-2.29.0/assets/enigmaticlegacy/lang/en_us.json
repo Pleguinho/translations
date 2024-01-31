@@ -831,9 +831,9 @@
 	"tooltip.enigmaticlegacy.hunterGuidebook4": "§5If §6Guia para companhia animal§5 is also",
 	"tooltip.enigmaticlegacy.hunterGuidebook5": "§5possessed, redirected damage is reduced by §6%1$s§5.",
 	
-	"tooltip.enigmaticlegacy.guardianHeart1": "§5While in inventory, §6Guardians§5 within §6%1$s§6 blocks",
-	"tooltip.enigmaticlegacy.guardianHeart2": "§5from you are rendered neutral towards you",
-	"tooltip.enigmaticlegacy.guardianHeart3": "§5and will target nearby monsters.",
+	"tooltip.enigmaticlegacy.guardianHeart1": "§5Enquanto estiver no inventário, §6Guardiões§5 em §6%1$s§6 blocks",
+	"tooltip.enigmaticlegacy.guardianHeart2": "§5de você se tornam neutros em relação a você",
+	"tooltip.enigmaticlegacy.guardianHeart3": "§5E terá como alvo  monstros próximos.",
 	"tooltip.enigmaticlegacy.guardianHeart4": "§5While on hotbar, casting your sight upon the",
 	"tooltip.enigmaticlegacy.guardianHeart5": "§5monster within §6%1$s§6 blocks§5 from you causes it to",
 	"tooltip.enigmaticlegacy.guardianHeart6": "§5become temporarily enraged, gaining greater",
