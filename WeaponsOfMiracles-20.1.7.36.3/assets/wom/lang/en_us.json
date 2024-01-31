@@ -127,7 +127,7 @@
 	"skill.wom.dancing_blade" : "Dancing Blade",
 	"skill.wom.dancing_blade.tooltip" : "\"Dance on the sound of death\"\n\nGain 80% damage on every 4th successfull attack.",
 	"skill.wom.meditation" : "Meditation",
-	"skill.wom.meditation.tooltip" : "Sneak for 2 second without moving to enter in state of meditation. the longer you meditate the longer the buff.\nThere is 3 stage of meditation each giving different effect:\n\n Stage 1: 40% damage dealing.\n\n Stage 2: 30% attack speed and Movement speed I\n\n Stage 3: 50% damage reduction and Regeneration I",
+	"skill.wom.meditation.tooltip" : "Sneak for 2 second without moving to enter in state of meditation. the longer you meditate the longer the buff.\nThere is 3 stage of meditation each giving different effect:\n\n Stage 1: 40% damage dealing.\n\n Stage 2: 30% Velocidade de ataque and Movement speed I\n\n Stage 3: 50% damage reduction and Regeneration I",
 	
 	"skill.wom.damage" : "%s damage",
 	"skill.wom.percent_of_target_lost_health" : " + %s of the target lost health",
